@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = lun. 20 juin 2016 01:19:34 CEST
+
+BeginCmp
+TimeStamp = /57670B21;
+Reference = 4.7K1;
+ValeurCmp = R;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /57670BCA;
+Reference = 4.7K2;
+ValeurCmp = R;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /57670377;
+Reference = GPS1;
+ValeurCmp = VK2828U7G5LF;
+IdModule  = SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5767037A;
+Reference = LCD2;
+ValeurCmp = LCD_12864-SAINSMART;
+IdModule  = 12_pins;
+EndCmp
+
+BeginCmp
+TimeStamp = /5767036F;
+Reference = S1;
+ValeurCmp = MPU-6050;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /57670367;
+Reference = S3;
+ValeurCmp = GY-63;
+IdModule  = SIL-7;
+EndCmp
+
+BeginCmp
+TimeStamp = /57670363;
+Reference = SH1;
+ValeurCmp = ARDUINO_NANO;
+IdModule  = ARDUINO_NANO_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /57670364;
+Reference = TH1;
+ValeurCmp = DHT22_TEMPERATURE_HUMIDITY;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /576710FE;
+Reference = U1;
+ValeurCmp = MICRO-B_USB;
+IdModule  = SIL-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /57670378;
+Reference = WIFI1;
+ValeurCmp = ADAPTATER_ESP01;
+IdModule  = SIL-4;
+EndCmp
+
+EndListe

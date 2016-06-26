@@ -1,0 +1,32 @@
+eeschema (25-Oct-2014 BZR 4029)-stable  >> Creation date: lun. 20 juin 2016 00:36:23 CEST
+#Cmp ( order = Reference )
+| 4.7K1      R           
+| 4.7K2      R           
+| GPS1       VK2828U7G5LF
+| LCD2       LCD_12864-SAINSMART
+| S1         MPU-6050    
+| S3         GY-63       
+| SH1        ARDUINO_NANO
+| TH1        DHT22_TEMPERATURE_HUMIDITY
+| U1         MICRO-B_USB 
+| WIFI1      ADAPTATER_ESP01
+#End Cmp
+
+#Cmp ( order = Value )
+| R            4.7K1     
+| R            4.7K2     
+| VK2828U7G5LF GPS1      
+| LCD_12864-SAINSMART LCD2      
+| MPU-6050     S1        
+| GY-63        S3        
+| ARDUINO_NANO SH1       
+| DHT22_TEMPERATURE_HUMIDITY TH1       
+| MICRO-B_USB  U1        
+| ADAPTATER_ESP01 WIFI1     
+#End Cmp
+
+#Global, Hierarchical Labels and PinSheets ( order = Alphab. ) count = 0
+
+#End labels
+
+#End List
